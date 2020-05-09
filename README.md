@@ -1,4 +1,4 @@
-# Bubble2
+# Stereo Control for Particle Workbench
 My Photon project for controlling stereo.
 
 Project includes:
