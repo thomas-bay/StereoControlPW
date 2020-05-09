@@ -392,7 +392,7 @@ void setup() {
   //while(Serial.read() != -1);
 
   // Start TCP server and print the WiFi data
-  //PrepForStaticIP();
+  PrepForStaticIP();
   server.begin();
   client.stop();
   TCP_LOG_MSG(WiFi.localIP());
